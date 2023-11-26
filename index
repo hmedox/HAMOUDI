@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Football</title>
+</head>
+<body>
+    <main>
+        <h1>Football:World's Popular Sport</h1>
+        <h2>About it:</h2>
+        <p>Football is known to be the world’s most popular game.<br> It is not only played between two different nations from around
+        the world but also in our localities. It is also one of the most loved  games.<br> One speciality about the game is the
+        enthusiasm of the players and viewers and the element of suspense that keeps everyone on the edge of their seats till
+        the end of the game.</p>
+        <hr>
+        <h3>Play of the game</h3>
+        <p>The rules of football regarding equipment, field of play, conduct of participants, and settling of results are built around 17 laws.<br>
+             The International Football Association Board,consisting of delegates from FIFA and the four football associations from the United Kingdom,
+              is empowered to amend the laws.</p>
+        <hr>
+        <h4>Most Popular Football Clubs in the world</h4>
+        <ol>
+            <li><strong>Real Madrid</strong></li>
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Real_Madrid_C.F._the_Winner_Of_The_Champions_League_in_2018_%281%29.jpg/1024px-Real_Madrid_C.F._the_Winner_Of_The_Champions_League_in_2018_%281%29.jpg" alt="Real Madrid" width="90%">
+            <hr>
+            <li><strong>Manchester United</strong></li>
+            <img src="https://images2.minutemediacdn.com/image/upload/c_crop,w_3598,h_2023,x_0,y_252/c_fill,w_2160,ar_16:9,f_auto,q_auto,g_auto/images%2FGettyImages%2Fmmsport%2F90min_en_international_web%2F01fxqp9ywjsf6p7mnes5.jpg" alt="Manchester United" width="90%">
+            <hr>
+            <li><strong>Barcelona</strong></li>
+            <img src="https://cdn.vox-cdn.com/thumbor/56pNqAgI7yJDCJa1ysNwmwVaCEI=/0x0:5568x3712/1200x800/filters:focal(2339x1411:3229x2301)/cdn.vox-cdn.com/uploads/chorus_image/image/63687314/1145506553.jpg.0.jpg" alt="Barcelona" width="90%">
+            <hr>
+            <li><strong>Manchester City</strong></li>
+            <img src="https://a.espncdn.com/photo/2023/0521/r1176319_1296x729_16-9.jpg" alt="Manchester City" width="90%">
+            <hr>
+            <li><strong>Liverpool</strong></li>
+            <img src="https://frontofficesports.com/wp-content/uploads/2022/11/FggPkVdWAAI3-lh-scaled-e1667836212903.jpeg" alt="Liverpool" width="90%">
+            <hr>
+            <li><strong>Wydad AC</strong></li>
+            <img src="https://static.lpnt.fr/images/2022/05/31/23254754lpw-23254765-article-jpg_8787513_1250x625.jpg" alt="Wydad AC" width="90%">
+            <hr>
+
+        </ol>
+        <a href="https://footballdatabase.com/ranking/world/1"><h5>World Football / Soccer Clubs Ranking</h5></a>
+
+    </main>
+</body>
+</html>
